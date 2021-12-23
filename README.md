@@ -1,2 +1,5 @@
 # IOT-PROJECTS
-Here you can check my IOT projects that I have done so far and you can make it useful for your own personel purposes.
+Here you can check the source code for weather station using Arduino UNO. 
+A simple project done during my undergraduate period and yes.... it's
+intresting. Do check it out.
+ 
